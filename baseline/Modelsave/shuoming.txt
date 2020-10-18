@@ -1,0 +1,4 @@
+from paper 824:just from paper, but have some different
+825:from papaer, the same
+_5_826/_3_826: 3 is the number of conv function,5 is function iteration
+
